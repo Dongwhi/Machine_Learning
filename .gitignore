@@ -43,5 +43,7 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,jupyternotebooks
 
+/DACON/**/*.csv
 /DACON_materials
+/KAGGLE/**/*.csv
 /KAGGLE_materials
